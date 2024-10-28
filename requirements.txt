@@ -2,4 +2,5 @@ discord.py==2.0.1
 requests==2.28.1
 websockets==10.3
 aiohttp==3.8.1
-flask==2.2.2  # si necesitas crear una API para comunicarte con el servidor de FiveM
+flask==2.2.2 
+#añade mas ...
